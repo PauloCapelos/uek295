@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+}
+
+.pablo {
+    margin-top: 5%;
+    margin-left: 16%;
+    margin-right: 16%;
+    width: 28%;
+    height: auto;
+}
+
+.heart {
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 10%;
+    height: auto;
+}

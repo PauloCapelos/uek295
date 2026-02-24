@@ -1,4 +1,4 @@
-@echo off
-:loop
-start cmd
-goto loop
+# @echo off
+# :loop
+# start cmd
+# goto loop
